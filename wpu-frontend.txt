@@ -1,0 +1,4 @@
+WPU FRONT END DEVELPOMENT
+- Memahami GITHUB dan mempraktekkan
+- Mengerti tentang GIT - Version Control System (VCS)
+- Basic Terminal Usage
