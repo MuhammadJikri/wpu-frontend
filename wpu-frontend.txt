@@ -2,3 +2,7 @@ WPU FRONT END DEVELPOMENT
 - Memahami GITHUB dan mempraktekkan
 - Mengerti tentang GIT - Version Control System (VCS)
 - Basic Terminal Usage
+- Data Structures & Algorithms
+- Struktur Data Primitive (integer, string, float, boolean, ...)
+- Struktur Data Majemuk (Array, list, linked-list, tree, graph)
+- Algoritma Problem Solving
