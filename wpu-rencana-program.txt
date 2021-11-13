@@ -1,8 +1,8 @@
 Apa saja bahasa program yg bakal dipelajari
 
-- HTML
-- CSS
-- Javascript
+- HTML (memahami pembuatan struktur WEB)
+- CSS (Memperbagus tampilan WEB)
+- Javascript (Membuat WEB menjadi fleksible)
 - PHP
 - C++
 - Python
