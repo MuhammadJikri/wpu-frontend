@@ -1,0 +1,8 @@
+Apa saja bahasa program yg bakal dipelajari
+
+- HTML
+- CSS
+- Javascript
+- PHP
+- C++
+- Python
