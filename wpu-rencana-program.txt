@@ -1,9 +1,9 @@
 Apa saja bahasa program yg bakal dipelajari
 
 - HTML (memahami pembuatan struktur WEB)
-- CSS (Memperbagus tampilan WEB)
+- CSS (Memperbagus tampilan WEB) (Mempelajari lebih dalam tentang tampilan web)
 - Javascript (Membuat WEB menjadi fleksible)
 - PHP (Belajar dan mehamami Database dan mengaplikasikan)
-- MySQL
+- MySQL (Belajar MySQL)
 - C++ (Membuat mobile apps)
 - Python (memahami bahasa program sederhana)
