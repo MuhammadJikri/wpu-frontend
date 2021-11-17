@@ -5,6 +5,7 @@ Apa saja bahasa program yg bakal dipelajari
 - Javascript (Membuat WEB menjadi fleksible)
 - JAVA - (mencoba belajar bahasa java)
 - PHP (Belajar dan mehamami Database dan mengaplikasikan)
+- SQL
 - MySQL (Belajar MySQL)
 - C++ (Membuat mobile apps)
 - Python (memahami bahasa program sederhana)
